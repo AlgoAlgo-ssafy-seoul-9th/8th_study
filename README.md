@@ -4,7 +4,7 @@
 
 [코드트리 문제](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description?page=1&pageSize=20&name=%ED%86%A0%EC%8A%A4%ED%8A%B8)
 
-<br><br><br>
+<br><br>
 
 # 토스트 계란틀
 
@@ -105,7 +105,7 @@ print(cnt)
 
 </details>
 
-<br><br><br>
+<br><br>
 
 # 비슷한 단어
 
@@ -147,7 +147,7 @@ print(cnt)
 
 </details>
 
-<br><br><br>
+<br><br>
 
 # 문자열 게임2
 
@@ -189,7 +189,7 @@ print(cnt)
 
 </details>
 
-<br><br><br>
+<br><br>
 
 # 성냥개비
 
@@ -231,4 +231,4 @@ print(cnt)
 
 </details>
 
-<br><br><br>
+<br><br>
